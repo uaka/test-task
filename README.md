@@ -14,8 +14,11 @@ _______
 
 Requerments:
 OS: Win/Mac/Unix
+
 Java: 11+
+
 Maven: 3+
+
 Chrome: 74
 
 To run test cd to project dir and run
